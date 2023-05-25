@@ -8,7 +8,13 @@ Using the starter code provided, this challenge is to produce analysis results f
 
 ## Election-Audit Results
 
-The election results data used for the analysis included 369,711 total vote records. The voter turnout was summarized for each county and the total and percentage votes per candidate were also summarized. The output from the terminal window shows the results summary.
+The election results data used for the analysis included 369,711 total vote records. The voter turnout was summarized for each county and the total and percentage votes per candidate were also summarized. The output from the terminal window shows the results summary. 
+
+- 369,711 votes were cast in this congressional election
+- The counties (and percent of votes) included in the analysis are Jefferson (10.5%), Arapahoe (6.7%), and Denver (82.8%).
+- Denver is the county with the largest number of votes at 306,055
+- Three candidates received votes.
+- The winner is Diana DeGette receiving 73.8% of the vote.
 
 ---
 
